@@ -1,12 +1,10 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am a full-stack developer with over 8 years of Software Application Development experience",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "ASP.NET, Node, Django, Spring Boot",
+    "React, Next.js, Vue.js, Laravel",
+    "MSSQL, MongoDB, MySQL, PostgreSQL, Firebase",
+    "C, C++, C#, Javascript, Python, Java"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Proficient in all aspects of the development process, from requirement gathering and design deployment and maintenance. Passionate about working in a fast-paced collaborative environment and staying up to date with the latest industry trends."
 }
